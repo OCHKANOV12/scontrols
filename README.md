@@ -1,2 +1,5 @@
 # scontrols
-https://t.me/scontrols
+https://t.me/controls
+Канал об информационной безопасности: новости, туториалы, кейсы для ИТ-специалистов, бизнеса и новичков.
+
+#Технологии #Cybersecurity #TechNews, #Кибербезопасность #InfoSec #ИБ #IT
